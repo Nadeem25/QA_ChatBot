@@ -19,3 +19,4 @@ langchain-chroma
 langchain_huggingface
 sentence-transformers
 bs4
+langchain_groq
